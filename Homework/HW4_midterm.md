@@ -1,5 +1,5 @@
 ### AI & Python for Data Sciencists (Midterm) 
-### Research Modeling Alpha 1.0 
+### Research Model Version Alpha 1.0 
 #### Due: 2026-2-13 & 2026-02-20 
 
 #### Instructions:
