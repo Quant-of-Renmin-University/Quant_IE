@@ -32,6 +32,13 @@
 
 4. `Table of model performance`: Create a table summarizing the performance of each model (OLS, LASSO, Ridge, and the non-linear model) based on the evaluation metrics. Including the insample, out-of-sample, and cross-validation results.
 
-#### Part 5: Presentation
-1. `2-13-2026 Presentation (Data)`: 5 minutes presentation and max 3 slides. You will present your research topic, dataset, and preliminary EDA results. Focus on the insights you have gained from the data and any interesting patterns you have discovered.
+#### Part 5: Code submission
+1. Submit your Jupyter Notebook (.ipynb) file containing all your code, comments
+2. Ensure that your notebook is well-organized and easy to follow, with clear explanations of each step in your analysis and modeling process.
+3. Include any visualizations and tables you created during your analysis to support your findings and conclusions
+
+#### Part 6: Presentation
+1. `2-13-2026 Presentation (Data)`: 3 minutes presentation and max 2 slides. You will present your research topic, dataset, and preliminary data results. Focus on the insights you have gained from the data and any interesting patterns you have discovered.
+    - Q & A like an academic conference or industrial job interview. Be prepared to answer questions about your research topic, dataset, and preliminary findings.
 2. `2-20-2026 Presentation (Model)`: 5 minutes presentation and max 3 slides. You will present your model building process, the performance of each model, and your conclusions about which model performs better and why.
+    - Q & A like an academic conference or industrial job interview. Be prepared to answer questions about your model building process, the performance of each model, and your conclusions.
