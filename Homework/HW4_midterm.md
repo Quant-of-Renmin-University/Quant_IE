@@ -33,7 +33,7 @@
 4. `Table of model performance`: Create a table summarizing the performance of each model (OLS, LASSO, Ridge, and the non-linear model) based on the evaluation metrics. Including the insample, out-of-sample, and cross-validation results.
 
 #### Part 5: Code submission
-1. Submit your Jupyter Notebook (.ipynb) file containing all your code, comments
+1. Submit your Jupyter Notebook (.ipynb) file containing all your code, comments and your presentations. Make sure your code is well-commented and organized for readability.
 2. Ensure that your notebook is well-organized and easy to follow, with clear explanations of each step in your analysis and modeling process.
 3. Include any visualizations and tables you created during your analysis to support your findings and conclusions
 
