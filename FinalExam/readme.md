@@ -26,7 +26,7 @@
 
 
 #### Porject Management:
-- Every week, you are required to write the progress of your project in `Project Management Markdown` file in the private repo https://github.com/Quant-of-Renmin-University/Quant_IE_Business_School_Modelers/tree/main/Models
+- Every week, you are required to write the progress of your project in `Project Management Markdown` file in the private repo https://github.com/Quant-of-Renmin-University/Quant_IE_Business_School_Modelers/blob/main/README.md
 
 - Your weekly progress should include:
     - A brief summary of the work you have done in the past week.
